@@ -2,13 +2,8 @@
   "files": {
     "FASTN.ftd": {
       "name": "FASTN.ftd",
-      "checksum": "667FF8A92C20F7D320B264168C16FD989B9671B6FA19A066C510D25A7D26D60C",
-      "size": 591
-    },
-    "FASTN/ds.ftd": {
-      "name": "FASTN/ds.ftd",
-      "checksum": "05B2FD169468415433F1554C14E1F5FFD20B044EB3D70C48C483BFCBA829CC5E",
-      "size": 2347
+      "checksum": "6D736DC026A7DEE54D8C2226C10EC5FFC377EA0EFC505D536E42A2784AFBDE25",
+      "size": 468
     },
     "README.md": {
       "name": "README.md",
@@ -20,15 +15,35 @@
       "checksum": "A42D91290C93B5F17412C3B346737EA1C796E5D287306758AFE8B20470119D80",
       "size": 21
     },
-    "assets/ipsum-logo-dark.svg": {
-      "name": "assets/ipsum-logo-dark.svg",
-      "checksum": "8290B3397C465FE1BB40B7CA280C976DF7DA3DABFC655B429805ABF33964FB5B",
-      "size": 16202
+    "assets/arpita.jpg": {
+      "name": "assets/arpita.jpg",
+      "checksum": "949A14237DA8B13BE5A1A0C487F750FD125D64C2A592EE23A6C2C95007F24DD5",
+      "size": 101433
     },
-    "assets/ipsum-logo.svg": {
-      "name": "assets/ipsum-logo.svg",
-      "checksum": "A227CF22E798ACFB2D01B6352FC22A28047444F028AF05440C6CE6F9499C0EDF",
-      "size": 15494
+    "assets/back.jpg": {
+      "name": "assets/back.jpg",
+      "checksum": "BD52FBD2F492D5F1965EECCCF165EE99788F89D7B42DCAFA760A41A7FC1D5F2A",
+      "size": 3723701
+    },
+    "assets/background.jpg": {
+      "name": "assets/background.jpg",
+      "checksum": "17D9F7701B020C5F502854AA513ADA858B889EBCDB747DCEEA8793E1719A23FD",
+      "size": 892990
+    },
+    "assets/heart.png": {
+      "name": "assets/heart.png",
+      "checksum": "D17524AD6E296A3F640756F46A6B123F254CA8EAAF9B7EAEA8C86B599E05F0C3",
+      "size": 20702
+    },
+    "assets/style.css": {
+      "name": "assets/style.css",
+      "checksum": "B2D8ECD051196688B119E803686591947DAF13A75BC3C6376F7DD2FF15EEAD5F",
+      "size": 5598
+    },
+    "ds.ftd": {
+      "name": "ds.ftd",
+      "checksum": "03B5D093C08C0CCD6311D3BA6CAB7041963CCC9F037AF44EFE2BF70B0180871C",
+      "size": 1003
     },
     "favicon.ico": {
       "name": "favicon.ico",
@@ -37,13 +52,8 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "32532606DDF89B56B42BA173EEAC7F7E9006DEEC07ABF10F6ABE246DC0EC1482",
-      "size": 1190
-    },
-    "sidebar.ftd": {
-      "name": "sidebar.ftd",
-      "checksum": "98EA5E5D5540AA8CCFA6C4ABEE6C2D476F6E1310B6B7E8978E81F62368EFA035",
-      "size": 1281
+      "checksum": "E1C002973FE5E5D00B50A93B7E2DC82B11D13FE19EAB4AEC345B9802EFD18E1C",
+      "size": 1589
     },
     "vercel.json": {
       "name": "vercel.json",
@@ -52,5 +62,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/meenukumari28/card/zip/refs/heads/main",
-  "checksum": "27D00C3BF18E2670EC0CCFDCC472CD44103E9217E7BBDCA250FCB9982A28AE66"
+  "checksum": "D0474FDC2E1685281976540CA04600DCC9961E0DF3BBF5A394C901E05DCAFA41"
 }
