@@ -50,7 +50,7 @@ width.fixed.px: 400
 
 -- ftd.image:
 src: $assets.files.assets.heart.png
-width.fixed.px: 260
+width.fixed.px: 300
 css: [ $assets.files.assets.style.css ]
 classes: firework
 align-self: center
