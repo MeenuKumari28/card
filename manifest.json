@@ -52,8 +52,8 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "BEA2A6E5A0C28D520830B9B96BA3C5060F6D2B4495B9DB08DD714567234B770E",
-      "size": 1589
+      "checksum": "EC20FA0EFDD03C551E755B316E811DED51237AAC993138B28DED0E44DE2201C9",
+      "size": 1626
     },
     "vercel.json": {
       "name": "vercel.json",
@@ -62,5 +62,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/meenukumari28/card/zip/refs/heads/main",
-  "checksum": "E8A44ED8583EFDA295DC52DA9F5BE7303A5C55D42695523EF506D0A3EA649872"
+  "checksum": "2B1F9934D65C17BAFF79859D17E18A027D2FB3E6ABE80D1482CCB353C42BF3E3"
 }

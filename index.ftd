@@ -9,6 +9,7 @@
 -- component card:
 
 -- ds.section-column:
+margin: $ds.spaces.vertical-gap.zero
 
 -- ftd.column:
 background.image: $bg-image
